@@ -9,5 +9,7 @@ source4=https://download.jetbrains.com/idea/ideaIC-2022.3.2.exe
 
 source5=https://slack.com/api/desktop.latestRelease?arch=x64&variant=exe&redirect=true <!-- need to find a direct link that doesn't redirect -->
 
+source6=https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
+
 What else needs to be added to sources?
 - GitHub Desktop?
