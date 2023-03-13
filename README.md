@@ -12,4 +12,4 @@ source5=https://downloads.slack-edge.com/releases/windows/4.29.149/prod/x64/Slac
 source6=https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
 
 What else needs to be added to sources?
-- GitHub Desktop?
+- Docker Desktop
