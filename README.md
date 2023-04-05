@@ -3,7 +3,7 @@ source1=https://github.com/git-for-windows/git/releases/download/v2.39.2.windows
 
 source2=https://dlcdn.apache.org/maven/maven-3/3.9.0/binaries/apache-maven-3.9.0-bin.zip
 
-source3=needJavaLink
+source3=https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi
 
 source4=https://download.jetbrains.com/idea/ideaIC-2022.3.2.exe
 
